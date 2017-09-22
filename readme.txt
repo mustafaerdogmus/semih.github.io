@@ -1,15 +1,7 @@
-# semihkirdinli.github.io
-
-This is my blog. There are many like it, but this one is mine.
-
-## Run it locally
-
-The following command builds the site and runs it on http://semihkirdinli.github.io/
-It takes a while because I have a lot of posts...
-
-```shell
-jekyll serve
-```
+FTP Hostname: 		ftp://ftp.semihkirdinli.com/
+FTP Sunucusu: 		ftp.semihkirdinli.com / 
+FTP Kullanýcýsý:	semihkirdinlicom
+FTP Þifresi: 		X2@8vtL-
 
 
 --------------- INSTALLATION ---------------
@@ -20,7 +12,7 @@ jekyll serve
 Notice: Don't forget! Select "Add Ruby executables to your PATH" option when install Ruby. 
 Ruby is installed to C: driver. If it is not installed, you can select it. C:\Ruby22 is created.
 
-On http://rubyinstaller.org/downloads/ site
+- On http://rubyinstaller.org/downloads/ site
      . Ruby 2.2.4:       http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.4-i386-mingw32.7z
      . Ruby 2.2.4 (x64): http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.4-x64-mingw32.7z
 
@@ -32,10 +24,11 @@ On http://rubyinstaller.org/downloads/ site
 
 5. Rdp or access must be given authorization after "jekyll serve" command.
 
+ruby specifications: C:\Ruby22\lib\ruby\gems\2.2.0\specifications
 
 --------------- USEFUL LINKS ---------------
 
 
-- http://jekyll-windows.juthilo.com/
-- https://jekyllrb.com/docs/windows/
-- https://jekyllrb.com/
+http://jekyll-windows.juthilo.com/
+https://jekyllrb.com/docs/windows/
+https://jekyllrb.com/

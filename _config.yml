@@ -1,0 +1,47 @@
+﻿#
+# Blog Settings
+#
+author: Semih Kırdinli
+description: 
+url: http://semih.github.io
+title: Semih Kırdinli
+subtitle: 
+gravatar_url: https://en.gravatar.com/userimage/4966509/eeeb9cf6f47a9875db3b4fd04954cb5a.jpg?size=200
+subscribe_rss: https://semihkirdinli.wordpress.com/feed/
+
+# Github repositories
+github_user: semih
+github_repo_url: https://github.com/semihkirdinli/semih.github.io/
+
+# Twitter
+twitter_user: semihkirdinli
+twitter_tweet_button: true
+
+# Disqus Comments
+disqus_short_name: semihkirdinli
+disqus_show_comment_count: true
+
+# Google Analytics
+google_analytics_tracking_id: UA-81569202-1
+
+kramdown:
+  hard_wrap: true
+
+#
+# Jekyll Settings
+#
+permalink: /archive/:year/:month/:day/:title/
+paginate: 10
+paginate_path: "page/:num"
+category_dir: categories
+languages: ["en", "tr"]
+language_default: 'en'
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+#  - jekyll-multiple-languages
+
+  
+exclude_from_localizations: ["javascript", "images", "css", "Gemfile", "scripts", "LICENSE", "README.md"]
