@@ -7,7 +7,7 @@ comments: true
 categories: [Algorithm, C#]
 tags: [c#, algorithm]
 ---
-There are 2 methods for reversing the string input. *ReverseStringDirect(s)* method completely reverses the string and   *ReverseStringOnlyOrder(s)* method reverses only collating sequence of the words, their writing are the same in themselves.
+There are 2 methods for reversing the string input. *ReverseStringDirect(s)* method completely reverses the string and   *ReverseStringOnlyOrder(s)* method reverses only collating sequence of the words, their writings don't change in themselves.
 {% highlight c# %}
 using System;
 
