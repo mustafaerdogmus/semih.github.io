@@ -3,7 +3,7 @@
 #
 author: Semih Kırdinli
 description: 
-url: http://semih.github.io
+url: https://semih.github.io
 title: Semih Kırdinli
 subtitle: 
 gravatar_url: https://en.gravatar.com/userimage/4966509/eeeb9cf6f47a9875db3b4fd04954cb5a.jpg?size=200
@@ -11,7 +11,7 @@ subscribe_rss: https://semihkirdinli.wordpress.com/feed/
 
 # Github repositories
 github_user: semih
-github_repo_url: https://github.com/semihkirdinli/semih.github.io/
+github_repo_url: https://github.com/semih/semih.github.io/
 
 # Twitter
 twitter_user: semihkirdinli
