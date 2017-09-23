@@ -2,7 +2,7 @@
 layout: post
 title: "Same Characters in String"
 date: 2017-09-14 01:15ly
-author: semihkirdinli
+author: semih
 comments: true
 categories: [Algorithm, C#]
 tags: [c#, algorithm]

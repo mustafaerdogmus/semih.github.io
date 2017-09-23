@@ -2,7 +2,7 @@
 layout: post
 title: "Reverse String"
 date: 2017-09-12 18:31ly
-author: semihkirdinli
+author: semih
 comments: true
 categories: [Algorithm, C#]
 tags: [c#, algorithm]
