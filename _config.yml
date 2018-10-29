@@ -43,7 +43,7 @@ language_default: 'en'
 feed:
   path: rss.xml
   
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
