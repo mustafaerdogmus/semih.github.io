@@ -13,7 +13,7 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 		String s = "Hello world!";
-		System.out.println("Reverse: " + Reverse(s));
+		System.out.println("Reversed String: " + Reverse(s));
 	}
 
 	public static String Reverse(String s) {
@@ -31,5 +31,5 @@ public class ReverseString {
 
 Output:
 {% highlight java %}
-ReverseString: !dlrow olleH
+Reversed String: !dlrow olleH
 {% endhighlight %}
