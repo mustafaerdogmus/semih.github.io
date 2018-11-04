@@ -7,25 +7,25 @@ comments: true
 categories: [Algorithm, Java]
 tags: [java, algorithm]
 ---
-In the following example, reversal string operation is shown in Java language. *Reverse(s)* method completely reverses the string.
+In the following example, reversal string operation is shown in Java language. *reverse(s)* method completely reverses the string.
 {% highlight java %}
 public class ReverseString {
 
 	public static void main(String[] args) {
 		String s = "Hello world!";
-		System.out.println("Reversed String: " + Reverse(s));
+		System.out.println("Reversed String: " + reverse(s));
 	}
 
-	public static String Reverse(String s) {
-		
-		char[] array = new char[s.length()];
-		int forward = 0;
-		for (int i = s.length() - 1; i >= 0; i--) {
-			array[forward++] = s.charAt(i);
-		}
-		return new String(array);
-	}
-	
+	public static String reverse(String str) {
+        StringBuilder strBuilder = new StringBuilder();
+        char[] strChars = str.toCharArray();
+
+        for (int i = strChars.length - 1; i >= 0; i--) {
+            strBuilder.append(strChars[i]);
+        }
+
+        return strBuilder.toString();
+    }
 }
 {% endhighlight %}
 
