@@ -1,4 +1,4 @@
-﻿#
+#
 # Blog Settings
 #
 name: semih.github.io
@@ -7,7 +7,7 @@ description:
 url: https://semih.github.io
 title: Semih Kırdinli
 subtitle: 
-gravatar_url: https://en.gravatar.com/userimage/4966509/eeeb9cf6f47a9875db3b4fd04954cb5a.jpg?size=200
+gravatar_url: https://secure.gravatar.com/avatar/ba1fd23455b3cbbe3a5020816de402b8
 copyright: by Semih Kırdinli
 excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed/
 subscribe_rss: https://semih.github.io/rss.xml
