@@ -7,7 +7,7 @@ comments: true
 categories: [Algorithm, Java]
 tags: [java, algorithm]
 ---
-In the following example, fibonacci numbers are written for given input in Java language.
+In the following example, fibonacci numbers are written for given input in Java language...
 {% highlight java %}
 public class Fibonacci {
 
